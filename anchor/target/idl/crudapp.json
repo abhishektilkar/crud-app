@@ -58,16 +58,16 @@
       ]
     },
     {
-      "name": "delet_journal_entry",
+      "name": "delete_journal_entry",
       "discriminator": [
-        158,
-        25,
-        222,
+        156,
+        50,
         93,
-        225,
-        9,
-        208,
-        222
+        5,
+        157,
+        97,
+        188,
+        114
       ],
       "accounts": [
         {
